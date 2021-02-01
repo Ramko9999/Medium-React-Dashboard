@@ -1,0 +1,9 @@
+.tab{
+    display: inline-block;
+    color: grey;
+}
+
+.tab:hover{
+    cursor: pointer;
+    color: black;
+}
